@@ -1,8 +1,8 @@
 const SDK = {};
 window.__INT__ = window.integration.classname;
 
-Object.defineProperty(SDK, 'SDK_TOOLTIP_ffffbougnoule_dead_f01e_d01e_dead_beef', {
-  value: function SDK_TOOLTIP_ffffbougnoule_dead_f01e_d01e_dead_beef(){
+Object.defineProperty(SDK, 'SDK_TOOLTIP_ffff_dead_f01e_d01e_dead_beef', {
+  value: function SDK_TOOLTIP_ffff_dead_f01e_d01e_dead_beef(){
 let c1 = new TagText();
 c1.addbox(window.__INT__, 'rmyt-app-app');
 c1.addtextbox('RM ®©');
@@ -1319,6 +1319,6 @@ Object.freeze(cdt);
 //TagText.Init_Opac(0.2);
 //TagText.Set_Opac('app', 0.0);
 
-var ___sdk___ = new SDK.SDK_TOOLTIP_ffffbougnoule_dead_f01e_d01e_dead_beef();
+var ___sdk___ = new SDK.SDK_TOOLTIP_ffff_dead_f01e_d01e_dead_beef();
 Object.seal(___sdk___);
 Object.freeze(___sdk___);
